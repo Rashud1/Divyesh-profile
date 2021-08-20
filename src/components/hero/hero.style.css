@@ -1,0 +1,8 @@
+.hero {
+	min-height: 86vh;
+	background: url(../../assets/img/bg1.png);
+}
+.profile-img {
+	max-width: 400px;
+	margin-left: auto;
+}

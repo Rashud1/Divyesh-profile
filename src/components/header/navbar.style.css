@@ -1,0 +1,9 @@
+.navbar-nav a {
+	color: blue !important;
+}
+.navbar-nav a:hover {
+	color: red !important;
+}
+.navbar-toggler {
+	color: red !important;
+}
